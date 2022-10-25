@@ -1,4 +1,4 @@
-# PWNIStorage
+# PWNI Storage
 
 PWNI Storage is one of the Human and Computer Interaction course's test projects. This is a file storage application that may be used for a variety of tasks such as storing, sending, and receiving files. The prototype of this application can be accessed via the following link.
 
